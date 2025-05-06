@@ -1,5 +1,5 @@
 ---
-title: 24XX Modular Rules
+title: VR
 layout: default
 nav_order: "3"
 ---

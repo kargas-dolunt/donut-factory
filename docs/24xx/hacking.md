@@ -1,5 +1,5 @@
 ---
-title: 24XX Modular Rules
+title: Hacking
 layout: default
 parent: 24XX Modular Rules
 ---

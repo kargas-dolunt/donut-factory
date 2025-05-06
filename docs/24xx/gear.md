@@ -6,7 +6,7 @@ parent: 24XX Modular Rules
 
 # Starting Gear
 
-In most sci-fi settings, each character starts with a comm (smartphone), a vehicle shared by the crew, and ₡2.
+In most sci-fi settings, each character starts with a comm (smartphone), a vehicle shared by the crew (spaceship, car, etc.), and ₡2.
 
 Most items and personal gear upgrades cost ₡1 each. Don't bother tracking microcredit transactions (e.g., a crowbar, knife, or meals).
 
@@ -17,15 +17,14 @@ Most items and personal gear upgrades cost ₡1 each. Don't bother tracking micr
 
 1. Armor, Battle armor (₡2, bulky, break up to 2×): Upgrade with active camoflage, compartments
 1. Armor, Hardsuit (₡3, bulky, break up to 3×): Upgrade with active camoflage, compartments, vac-rated (inclues magboots), ultralight (remove bulky)
-2. Ammunition (pistol, rifle, shotgun, fletchettes, gyrojects, power packs, tranq darts, flares)
+2. Ammunition (pistol, rifle, shotgun, fletchettes, gyrojets, fuel, flares)
 1. Baton (no cost): Upgrade with stunner
 1. Bugs & trackers
 1. Drone, mini
-1. Flamethrower (bulky)
-1. Flare gun  (light, fire, signal)
-1. Knife (no cost): Upgrade with monomolecular edge, TBD
-1. Grappler (fire magnetic hook on wire, bulky)
-11. Hazmat suit (blocks gas, liquids, radiation)
+1. Flamethrower (bulky, fuel)
+1. Flare gun  (light, fire, signal, flares)
+1. Knife (no cost): Upgrade with monomolecular edge
+1. Hazmat suit (blocks gas, liquids, radiation)
 1. IR goggles (see lingering heat signatures)
 1. Body cam (Share and record audio/video)
 1. Low-G Jetpack (compressed nitrogen fuel)
@@ -38,7 +37,7 @@ Most items and personal gear upgrades cost ₡1 each. Don't bother tracking micr
 1. Cutting torch (for welding or breaching)
 1. Portable Sensor (sense lifesigns, motion)
 1. Repair gel (fixes 1 broken item, 1 use)
-1. Rivet gun (tool/imprecise ranged weapon)
+1. Rivet gun (tool, improvised weapon)
 1. Satchel charge (high explosive, 1 use)
 1. Scrambler, confuses robots briefly, 1 use
 1. Stunner (close range, less-lethal weapon)
@@ -73,7 +72,7 @@ Most items and personal gear upgrades cost ₡1 each. Don't bother tracking micr
 1. Commlink (smartphone): Upgrade with hacking programs (₡1 each)
 1. Multitool (no cost)
 1. Directional microphone
-2. TBD to 100.
+1. TBD to 100.
 
 ## Ranged Weapons
 1. **Grenade, EMP** (pack of 4)
@@ -81,22 +80,15 @@ Most items and personal gear upgrades cost ₡1 each. Don't bother tracking micr
 1. **Grenade, Fragmentation** (pack of 4)
 1. **Grenade, Smoke** (pack of 4)
 1. **Pistol, firearm**: Upgrade with DNA-lock, fletchettes, gyrojets, silencer
-1. **Pistol, laser** (₡2): Upgrade with stun, DNA-lock
-1. **Pistol, plasma** (₡2): Upgrade with burst fire, DNA-lock
-1. **Pistol, antimatter** (₡3, disintegrate on 7+): Upgrade with burst fire, DNA-lock
-1. **Rifle, firearm** (bulky): Upgrade with bayonet, burst-fire, collapsible, DNA-lock, flash-suppressor, flechettes, friend/foe ID, grenade launcher, gyrojets, scope, tranq darts
-1. **Rifle, firearm, sniper** (bulky, stationary, extreme range)
-1. **Rifle, laser** (₡2, bulky): Upgrade with stun, DNA-lock, friend/foe ID, scope
-1. **Rifle, plasma** (₡2, bulky): Upgrade with burst fire, DNA-lock, friend/foe ID, scope
-1. **Rifle, antimatter** (₡3, bulky, disintegrate on 7+): Upgrade with burst fire, DNA-lock, friend/foe ID, scope
-1. **Shotgun, firearm** (bulky)
+1. **Rifle** (bulky, firearm): Upgrade with bayonet, burst-fire, collapsible, DNA-lock, flash-suppressor, flechettes, friend/foe ID, grenade launcher, gyrojets, scope, tranq darts
+1. **Rifle, sniper** (bulky, stationary, extreme range, firearm)
+1. **Shotgun** (bulky, buckshot)
 2. x
 3. x
 4. x
 5. x
 6. x
 7. x
-
 
 Choose or roll for your gear. Items are priced in credits (₡). Most items cost 1₡, exceptions are noted.
 
