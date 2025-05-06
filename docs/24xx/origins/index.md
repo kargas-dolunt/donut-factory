@@ -1,0 +1,3 @@
+**Mystic**: Only available in games with magic. Skilled in Theurgy (d10, protect from harm). Start with a *Magic* talent.
+**Psychic**: Only available in games with psionics. Skilled in Telepathy (d8, sense surface thoughts) and Telekinesis (d8, as strong as your arms). Start with a *Psi* talent.
+**Sorcerer**: Only available in games with magic. Skilled in Wizardry (d10, cause harm). Start with a *Magic* talent.
